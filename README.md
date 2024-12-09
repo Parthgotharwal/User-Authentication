@@ -52,16 +52,6 @@ Usage
 - A green "MATCH!" or red "NO MATCH!" will display on the screen based on face verification.
 - Press q to quit the application.
 
----
-
-Example Output
-When a face matches the reference image:  
-[Match Example Image Placeholder]
-
-When a face does not match the reference image:  
-[No Match Example Image Placeholder]
-
----
 
 Limitations
 - The script relies on DeepFace’s verify method, which may encounter errors for unclear or misaligned faces.
