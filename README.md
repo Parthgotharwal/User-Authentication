@@ -67,6 +67,3 @@ Feel free to submit issues and pull requests to improve this project. Contributi
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
---- 
-
-Replace placeholders like your-username and add appropriate image files for examples to complete the README.
